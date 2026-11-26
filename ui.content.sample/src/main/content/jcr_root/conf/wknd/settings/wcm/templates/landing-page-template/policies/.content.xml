@@ -29,6 +29,10 @@
                             cq:policy="wknd/components/teaser/policy_1555539430196"
                             jcr:primaryType="nt:unstructured"
                             sling:resourceType="wcm/core/components/policies/mapping"/>
+                        <teaser_main_right
+                            cq:policy="wknd/components/teaser/policy_1555539430196"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="wcm/core/components/policies/mapping"/>
                         <carousel
                             cq:policy="wknd/components/carousel/policy_1555540352044"
                             jcr:primaryType="nt:unstructured"

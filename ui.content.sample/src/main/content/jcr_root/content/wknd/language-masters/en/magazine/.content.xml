@@ -45,11 +45,12 @@
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
                     jcr:title="Camping in Western Australia"
-                    sling:resourceType="wknd/components/teaser"
+                    sling:resourceType="wknd/components/teaser_main_right"
                     actionsEnabled="true"
                     descriptionFromPage="true"
                     fileReference="/content/dam/wknd-shared/en/magazine/western-australia/adobestock-156407519.jpeg"
                     id="featured-article-magazine"
+                    imageOnRight="{Boolean}true"
                     pretitle="Featured Article"
                     textIsRich="true"
                     titleFromPage="false">
